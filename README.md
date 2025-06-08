@@ -2,7 +2,7 @@
 
 This project is an **end-to-end analytics solution** to analyze churn behavior of telecom customers using Power BI and DAX. It visualizes key metrics such as churn rate, average customer tenure, and contract segmentation—empowering data-driven decisions to reduce customer loss.
 
-> ✅ Built for learning, and also for showcasing business intelligence & automation capabilities (inspired by Ericsson's Analytics use case).
+> ✅ Built for learning, and also for showcasing business intelligence & automation capabilities.
 
 ---
 
