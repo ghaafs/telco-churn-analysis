@@ -26,7 +26,7 @@ Churn is one of the most critical KPIs in the telecom industry. Understanding **
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard Telco Churn Analysis.png)
+![Dashboard Screenshot](https://github.com/ghaafs/telco-churn-analysis/blob/4db708fe6cee10fe2212d27186870cb045be6bbe/Dashboard%20Telco%20Churn%20Analysis.png))
 
 ---
 
