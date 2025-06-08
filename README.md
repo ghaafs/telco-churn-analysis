@@ -24,12 +24,32 @@ Churn is one of the most critical KPIs in the telecom industry. Understanding **
 
 ---
 
+## 🧠 Key Insights from the Dashboard
+
+- **27% of customers churned**, while **73% were retained**
+- **Month-to-month contracts** dominate churned customers (1,238 users)
+- **New customers (<5 months)** and **very loyal customers (>70 months)** are the most likely to churn
+- Average tenure of churned customers is only **32.42 months**
+- **Higher monthly charges** correlate with churn rate
+
+---
+
 ## 📊 Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/ghaafs/telco-churn-analysis/blob/4db708fe6cee10fe2212d27186870cb045be6bbe/Dashboard%20Telco%20Churn%20Analysis.png)
 
 ## 👩‍💻 Access PowerBI Here
 ![QR Code](https://github.com/ghaafs/telco-churn-analysis/blob/3c86afdf598d47a1021090baa00be19ddab2e54a/QR-PowerBI.jpg)
+
+---
+
+## 🧠 Key Insights from the Dashboard
+
+- **27% of customers churned**, while **73% were retained**
+- **Month-to-month contracts** dominate churned customers (1,238 users)
+- **New customers (<5 months)** and **very loyal customers (>70 months)** are the most likely to churn
+- Average tenure of churned customers is only **32.42 months**
+- **Higher monthly charges** correlate with churn rate
 
 ---
 
